@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300" height="220" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="370" height="250" />
 
 <h1>Hi 👋, I'm Abhishek Kumar</h1>
 
