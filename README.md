@@ -32,7 +32,6 @@
 
 [![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
 
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=A158-debug&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 <p align="left">
