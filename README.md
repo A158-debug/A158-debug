@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently in B.Tech 3rd year pursuing Material Science Engineering from IIT Jodhpur.
+- 👨‍💻 I’m currently a FInal year B.Tech student pursuing Material Science Engineering from IIT Jodhpur.
 
 - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 
