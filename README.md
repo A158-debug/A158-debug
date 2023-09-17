@@ -6,7 +6,7 @@
 - 🤔 Exploring new and exciting ideas, feel free to me : abhi158debug@gmail.com
 - 👨‍💻 Currently a Final year B.Tech student pursuing Material Science Engineering from IIT Jodhpur.
 - 💻 Open for freelancing opportunities: [Upwork](https://www.upwork.com/freelancers/~013f950ef22e8eac71)
-  
+
 <!-- 
  - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵 
  - 📫 How to reach me **ak9836919@gmail.com**
@@ -14,7 +14,6 @@
 -->
 
 Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzzBt5UkDWv6mVID9D5Ak9F/view?usp=sharing) 
-
 
 
 ## 🚀 Languages and Tools:
@@ -41,7 +40,8 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzz
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![My Github activity graph](https://activity-graph.herokuapp.com/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/SubhamRaoniar28/github-readme-activity-graph)
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/A158-debug/github-readme-activity-graph)
 
 
 ## Connect with me:
