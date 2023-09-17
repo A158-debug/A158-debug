@@ -25,23 +25,32 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzz
 ![skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,github,git)
 ![skills](https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,)
 ![skills](https://skillicons.dev/icons?i=flask,cpp,python,mongodb,mysql&theme=dark&perline=9)
- 
- -->
+
+
+<p align=""><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=A158-debug&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="A158-debug" width="495px" height="195px"/></p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+-->
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/A158-debug/github-readme-activity-graph)
+
 
 <br/>
 
 ## 📊 My Github Stats
 
- <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=A158-debug&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="A158-debug" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A158-debug&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)
-
-<p align=""><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=A158-debug&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="A158-debug" width="495px" height="195px"/></p>
-
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+|  Github Stats |  Github Streak |
+| -------- | -------- |
+|  <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=A158-debug&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="A158-debug" /></p>  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A158-debug&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)  |
 
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/A158-debug/github-readme-activity-graph)
+
+
+
+
+
+
 
 
 ## Connect with me:
