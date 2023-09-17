@@ -33,9 +33,6 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzz
 
 -->
 
-[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/A158-debug/github-readme-activity-graph)
-
-
 <br/>
 
 ## 📊 My Github Stats
@@ -43,6 +40,8 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzz
 |  Github Stats |  Github Streak |
 | -------- | -------- |
 |  <p><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api?username=A158-debug&show_icons=true&locale=en&theme=algolia&hide_border=true" alt="A158-debug" /></p>  | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A158-debug&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=2FDD9B)](https://git.io/streak-stats)  |
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=A158-debug&bg_color=0e0627&color=9ef7f8&line=37ed8f&point=aaeeff&hide_border=true)](https://github.com/A158-debug/github-readme-activity-graph)
 
 
 
