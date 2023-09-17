@@ -18,15 +18,15 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzz
 
 ## 🚀 Languages and Tools:
 
+![skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,github,git,react,nodejs,express,js,html,css,tailwind,flask,cpp,python,mongodb,mysql&theme=dark)
+
+<!--
+
 ![skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,github,git)
-
-
 ![skills](https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,)
-
-
 ![skills](https://skillicons.dev/icons?i=flask,cpp,python,mongodb,mysql&theme=dark&perline=9)
-
-
+ 
+ -->
 
 <br/>
 
