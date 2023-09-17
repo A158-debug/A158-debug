@@ -1,22 +1,33 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="370" height="250" />
-
-<h1>Hi 👋, I'm Abhishek Kumar</h1>
 
 
+## Hi 👋, I'm Abhishek Kumar
 
-## 🙋‍♂️ About Me
+- 👨‍🔧 Experienced working in MLOps, Azure, various web & cloud technologies.
+- 🤔 Exploring new and exciting ideas, feel free to me : abhi158debug@gmail.com
+- 👨‍💻 Currently a Final year B.Tech student pursuing Material Science Engineering from IIT Jodhpur.
+- 💻 Open for freelancing opportunities: [Upwork](https://www.upwork.com/freelancers/~013f950ef22e8eac71)
+  
+<!-- 
+ - 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵 
+ - 📫 How to reach me **ak9836919@gmail.com**
+ - 🌱 I love watching tech videos and exploring new stuffs. 
+-->
 
-- 👨‍💻 I’m currently a Final year B.Tech student pursuing Material Science Engineering from IIT Jodhpur.
+Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzzBt5UkDWv6mVID9D5Ak9F/view?usp=sharing) 
 
-- 🖥️ Coding Environment: Dark 🕶️ + Music 🎧 + Tea 🍵
 
-- 🌱 I love watching tech videos and exploring new stuffs. 
-
-- 📫 How to reach me **ak9836919@gmail.com**
 
 ## 🚀 Languages and Tools:
 
-![skills](https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,bootstrap,github,git,cpp,python,mongodb,mysql&theme=dark&perline=9)
+![skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,github,git)
+
+
+![skills](https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,)
+
+
+![skills](https://skillicons.dev/icons?i=flask,cpp,python,mongodb,mysql&theme=dark&perline=9)
+
+
 
 <br/>
 
