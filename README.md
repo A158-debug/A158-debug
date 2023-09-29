@@ -13,7 +13,7 @@
  - 🌱 I love watching tech videos and exploring new stuffs. 
 -->
 
-Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10ENRkKLduFzzBt5UkDWv6mVID9D5Ak9F/view?usp=sharing) 
+Checkout my :file_folder: [Resume](https://drive.google.com/file/d/10HFgwge2MtLEyVKckwSj8EinWGoUIs4k/view?usp=sharing) 
 
 
 ## 🚀 Languages and Tools:
