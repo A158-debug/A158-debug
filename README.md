@@ -20,14 +20,10 @@ Checkout my :file_folder: [Resume](https://drive.google.com/file/d/1ksCqpZmsuGAM
 
 ![skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,github,git,react,nodejs,express,js,html,css,tailwind,flask,cpp,python,mongodb,mysql&theme=dark&perline=10)
 
+
+
+<p align=""><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=A158-debug&langs_count=100&show_icons=true&include_all_commits=true&count_private=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="A158-debug" width="495px" height="195px"/></p>
 <!--
-
-![skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,github,git)
-![skills](https://skillicons.dev/icons?i=react,nodejs,express,js,html,css,tailwind,)
-![skills](https://skillicons.dev/icons?i=flask,cpp,python,mongodb,mysql&theme=dark&perline=9)
-
-
-<p align=""><img style="margin:10px 10px 0 0" src="https://github-readme-stats.vercel.app/api/top-langs?username=A158-debug&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true" alt="A158-debug" width="495px" height="195px"/></p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
